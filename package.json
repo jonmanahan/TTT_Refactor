@@ -4,6 +4,7 @@
   "description": "## Description A Tic-Tac-Toe game in need of an update",
   "main": "index.js",
   "scripts": {
+    "start": "open index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
