@@ -1,0 +1,22 @@
+{
+  "name": "ttt_refactor",
+  "version": "1.0.0",
+  "description": "## Description A Tic-Tac-Toe game in need of an update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonmanahan/TTT_Refactor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonmanahan/TTT_Refactor/issues"
+  },
+  "homepage": "https://github.com/jonmanahan/TTT_Refactor#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
